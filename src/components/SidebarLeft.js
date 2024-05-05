@@ -9,7 +9,7 @@ const SidebarLeft = () => {
     return (
 
 
-        <div className='flex flex-col'>
+        <div className='flex flex-col bg-[#DDE4E4]'>
             <div className='w-full h-[70px] py-[15x] px-[25px] flex justify-start items-center'>
                 <img src={logo} alt="img" className='w-[120px]  h-10' />
             </div>
